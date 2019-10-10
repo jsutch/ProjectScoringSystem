@@ -45,3 +45,7 @@ TODO:
 - Add Story Points
 - Add hooks for JIRA and Trello
 - Add import or export to database
+
+## Output Image
+
+![Example](project_scoring_savefile.png)
