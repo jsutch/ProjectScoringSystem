@@ -37,3 +37,11 @@ Save these, then import into the Notebook and generate your graph.
 #### *Use items further right on the y-axis as upcoming requirements*
 - This will require rescoring to ensure that the needs stay fresh
 - have conversations to find anything that stays below the red line for more than a quarter/sprint/etc. 
+
+
+TODO:
+- fix legend
+- make it easier to color by Project or Client
+- Add Story Points
+- Add hooks for JIRA and Trello
+- Add import or export to database
