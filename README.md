@@ -11,7 +11,7 @@
 - replace the clients with your current client list
 
 Then score:
-- Initiative Score: Managers/Leaders should rank rach Project in relation to business objectives
+- Initiative Score: Managers/Leaders should rank each Project in relation to business objectives
 - Time Score Managers/Leaders/Project Managers should agree on when those projects have been committed to their Client (by quarter, project, week, etc)
 - SMEs and individual engineers offer a grade of complexity or reworkability into the Project tech (do I make one change that's easy from our current process, or do I have to rewrite all the configs for each client, making each config more complex)
 
